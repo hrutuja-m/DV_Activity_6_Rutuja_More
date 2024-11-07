@@ -1,5 +1,7 @@
 # In-Class Activity: Manipulable View
 
+ Site is live at https://hrutuja-m.github.io/DV_Activity_6_Rutuja_More/
+
 **Visualization Features:**
 
 * Data Modification
@@ -17,4 +19,4 @@
 
 The outcome should look like the screenshot
 
-<img src= "http://localhost:63342/umassdgithub%20DataViz-Fall2024%20main%20Week-10_Manipulable_Multiview_Vis-Activity%206/activity.html?_ijt=rg76rs8ea5o8ducg75jlmd9ft6">
+<img src="imgs/preview.gif">
