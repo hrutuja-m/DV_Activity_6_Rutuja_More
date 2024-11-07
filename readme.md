@@ -1,6 +1,6 @@
 # In-Class Activity: Manipulable View
 
- Site is live at https://hrutuja-m.github.io/DV_Activity_6_Rutuja_More/
+ Site is live at https://hrutuja-m.github.io/DV_Activity_6_Rutuja_More/index.html
 
 **Visualization Features:**
 
